@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
     },
     {
-      "Id": "/Users/starter/Desktop/projects/c#/BlazorApp/wwwroot/app.css",
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/starter/Desktop/projects/c#/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/starter/Desktop/projects/c#/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/starter/Desktop/projects/c#/BlazorApp/wwwroot/favicon.png",
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

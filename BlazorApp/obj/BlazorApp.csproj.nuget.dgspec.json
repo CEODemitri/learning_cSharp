@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/starter/Desktop/projects/c#/BlazorApp/BlazorApp.csproj": {}
+    "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/starter/Desktop/projects/c#/BlazorApp/BlazorApp.csproj": {
+    "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/starter/Desktop/projects/c#/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/starter/Desktop/projects/c#/BlazorApp/BlazorApp.csproj",
-        "packagesPath": "/Users/starter/.nuget/packages/",
-        "outputPath": "/Users/starter/Desktop/projects/c#/BlazorApp/obj/",
+        "projectPath": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/BlazorApp.csproj",
+        "packagesPath": "/Users/colorcodex8/.nuget/packages/",
+        "outputPath": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/starter/.nuget/NuGet/NuGet.Config"
+          "/Users/colorcodex8/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
