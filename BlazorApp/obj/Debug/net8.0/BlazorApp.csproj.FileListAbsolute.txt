@@ -11,6 +11,7 @@
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/BlazorApp.AssemblyInfo.cs
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/BlazorApp.csproj.CoreCompileInputs.cache
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/BlazorApp.sourcelink.json
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/staticwebassets.build.json
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/staticwebassets.development.json
 /Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/staticwebassets/msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props

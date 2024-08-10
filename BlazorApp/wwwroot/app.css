@@ -49,3 +49,25 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+    margin: 4em 0;
+
+    section {
+        width: 300px;
+        height: 300px;
+        background: linear-gradient(180deg, midnightblue, hsl(0, 0%, 71%));
+        border-radius: 1em 0 1em 0;
+        transition: background 20s ease;
+        box-shadow: 0 4px 20px;
+
+        &:hover {
+            background: linear-gradient(180deg, darkblue, hsl(298, 97%, 13%));
+        }
+    }
+}
