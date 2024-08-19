@@ -51,6 +51,10 @@ h1:focus {
 }
 
 
+.space {
+    height: 8em;
+}
+
 .boxes {
     display: flex;
     flex-wrap: wrap;
