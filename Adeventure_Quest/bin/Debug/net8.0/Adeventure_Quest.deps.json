@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adeventure_Quest/1.0.0": {
+        "runtime": {
+          "Adeventure_Quest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adeventure_Quest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
