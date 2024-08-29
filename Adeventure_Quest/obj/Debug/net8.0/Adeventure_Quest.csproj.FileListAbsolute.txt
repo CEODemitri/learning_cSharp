@@ -1,0 +1,15 @@
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/bin/Debug/net8.0/Adeventure_Quest
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/bin/Debug/net8.0/Adeventure_Quest.deps.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/bin/Debug/net8.0/Adeventure_Quest.runtimeconfig.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/bin/Debug/net8.0/Adeventure_Quest.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/bin/Debug/net8.0/Adeventure_Quest.pdb
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.AssemblyInfoInputs.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.AssemblyInfo.cs
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.csproj.CoreCompileInputs.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.sourcelink.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/refint/Adeventure_Quest.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.pdb
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/Adeventure_Quest.genruntimeconfig.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/Adeventure_Quest/obj/Debug/net8.0/ref/Adeventure_Quest.dll

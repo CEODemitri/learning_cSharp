@@ -59,3 +59,4 @@
 /Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/obj/Debug/net8.0/BlazorApp.genruntimeconfig.cache
 /Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/obj/Debug/net8.0/ref/BlazorApp.dll
 /Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/BlazorApp/obj/Debug/net8.0/scopedcss/Components/Layout/SectionTitle.razor.rz.scp.css
+/Users/starter/Desktop/projects/c#/BlazorApp/obj/Debug/net8.0/scopedcss/Components/Layout/SectionTitle.razor.rz.scp.css
