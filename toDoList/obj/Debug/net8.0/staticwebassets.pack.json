@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/toDoList/obj/Debug/net8.0/scopedcss/projectbundle/toDoList.bundle.scp.css",
+      "PackagePath": "staticwebassets/toDoList.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/toDoList/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/toDoList/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/toDoList/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/toDoList/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.toDoList.props",
+      "PackagePath": "build\\toDoList.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.toDoList.props",
+      "PackagePath": "buildMultiTargeting\\toDoList.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.toDoList.props",
+      "PackagePath": "buildTransitive\\toDoList.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.toDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
