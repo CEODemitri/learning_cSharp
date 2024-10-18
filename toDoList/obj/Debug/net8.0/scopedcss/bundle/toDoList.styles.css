@@ -10,7 +10,7 @@ main[b-y0o04z6tmw] {
 }
 
 .sidebar[b-y0o04z6tmw] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, hsl(59, 42%, 65%) 0%, hsla(34, 76%, 36%, 0.816) 70%);
 }
 
 .top-row[b-y0o04z6tmw] {
@@ -110,16 +110,17 @@ main[b-y0o04z6tmw] {
 }
 
 .navbar-toggler:checked[b-eq8n81tnv2] {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.669);
 }
 
 .top-row[b-eq8n81tnv2] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(92, 22, 22, 0.226);
 }
 
 .navbar-brand[b-eq8n81tnv2] {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
+    text-transform: uppercase;
 }
 
 .bi[b-eq8n81tnv2] {
@@ -149,8 +150,9 @@ main[b-y0o04z6tmw] {
 }
 
 .nav-item[b-eq8n81tnv2] {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     padding-bottom: 0.5rem;
+    letter-spacing: 0.3em;
 }
 
     .nav-item:first-of-type[b-eq8n81tnv2] {
@@ -174,7 +176,7 @@ main[b-y0o04z6tmw] {
     }
 
 .nav-item[b-eq8n81tnv2]  a.active {
-    background-color: rgba(255,255,255,0.37);
+    background-color: rgba(219, 130, 13, 0.27);
     color: white;
 }
 

@@ -3,13 +3,16 @@ html, body {
 }
 
 a, .btn-link {
-    color: #006bb7;
+    color: #db820d;
 }
 
-.btn-primary {
+.btn-primary, .cta-button {
     color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    background-color: #db820d3f;
+    border-color: #b9a489;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -48,4 +51,29 @@ h1:focus {
 
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
+}
+
+.tool {
+    margin: 1em 0;
+    background: linear-gradient(90deg, #db820da5, #b9a489);
+    height: 150px;
+    display: flex;
+    padding: 1em;
+    border-radius: 0.35em;
+
+    &:hover {
+        background: linear-gradient(90deg, #b9a489, #db820d);
+    }
+
+    h3 {
+        margin-left: 1em;
+    }
+
+    p {
+        width: 60ch;
+    }
+
+    a {
+        width: 30%;
+    }
 }

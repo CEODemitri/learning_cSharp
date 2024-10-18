@@ -13,12 +13,19 @@
     }
 </ul>
 
-<input @bind="newTodo" />
+<input @bind="newTodo" @oninput="onInput" />
 <button @onclick="AddTodo">Add todo</button>
+<p>@text</p>
 
 @code {
     private List<TodoItem> todos = new();
     string newTodo = "";
+    string text = "";
+
+    private void onInput(ChangeEventArgs e)
+    {
+        text = (string)e.Value!;
+    }
 
     void AddTodo()
     {
