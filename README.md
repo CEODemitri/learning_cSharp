@@ -5,3 +5,9 @@
 
 2. To Do List
    Interactive complex application
+
+<!--  linkedin -->
+
+## Linkedin
+
+https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?autoSkip=true&resume=false&u=2045532

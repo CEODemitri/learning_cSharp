@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/bin/Debug/net8.0/clue
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/bin/Debug/net8.0/clue.deps.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/bin/Debug/net8.0/clue.runtimeconfig.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/bin/Debug/net8.0/clue.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/bin/Debug/net8.0/clue.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.sourcelink.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/refint/clue.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/clue.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/clue/obj/Debug/net8.0/ref/clue.dll
