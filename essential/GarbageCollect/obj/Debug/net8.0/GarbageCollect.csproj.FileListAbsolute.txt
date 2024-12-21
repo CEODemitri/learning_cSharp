@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.sourcelink.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/bin/Debug/net8.0/GarbageCollect
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/bin/Debug/net8.0/GarbageCollect.deps.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/bin/Debug/net8.0/GarbageCollect.runtimeconfig.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/bin/Debug/net8.0/GarbageCollect.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/bin/Debug/net8.0/GarbageCollect.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/refint/GarbageCollect.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/GarbageCollect.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/GarbageCollect/obj/Debug/net8.0/ref/GarbageCollect.dll
