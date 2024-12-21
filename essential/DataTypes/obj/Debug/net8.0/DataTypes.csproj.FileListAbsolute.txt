@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/bin/Debug/net8.0/DataTypes
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.sourcelink.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll

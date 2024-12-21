@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b84570c929693365ac5476ccc9bfb6ada3baf30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c50e839eddc0a81587bcb4d20905d69d350d5fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("clue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
