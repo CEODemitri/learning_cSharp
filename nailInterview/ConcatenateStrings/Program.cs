@@ -19,6 +19,18 @@ public class HelloWorld
         stringBuilder.Insert(0, name);
         String alpha = stringBuilder.ToString();
         Console.WriteLine(alpha);
+
+        // new example
+        StringBuilder zodiac = new StringBuilder("Leo");
+        zodiac.Append(" Virgo");
+        Console.WriteLine(zodiac);
+        zodiac.Append(" Scorpio");
+        Console.WriteLine(zodiac);
+
+        // StringBuilder is used when performance is critical
+        // StringBuilder is thread-safe, meaning multiple threads can access and modify it simultaneously
+        // StringBuilder is useful for building strings that need to be changed frequently
+        // StringBuilder is also useful for building strings that need to be shared between multiple threads
     }
 }
 

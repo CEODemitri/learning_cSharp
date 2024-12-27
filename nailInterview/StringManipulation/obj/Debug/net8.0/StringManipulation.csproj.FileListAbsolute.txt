@@ -1,0 +1,15 @@
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/bin/Debug/net8.0/StringManipulation
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/bin/Debug/net8.0/StringManipulation.deps.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/bin/Debug/net8.0/StringManipulation.runtimeconfig.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/bin/Debug/net8.0/StringManipulation.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/bin/Debug/net8.0/StringManipulation.pdb
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfo.cs
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.sourcelink.json
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/refint/StringManipulation.dll
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.pdb
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.genruntimeconfig.cache
+/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/ref/StringManipulation.dll
