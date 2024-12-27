@@ -16,7 +16,7 @@ Console.WriteLine("Pick a Character Class: [Spirit, Magician, Werewolf, Archer]"
 string playerClass = Console.ReadLine().ToLower();
 
 // capitalize first letter of playerClass
-playerClass = char.ToUpper(playerClass[0]) + playerClass.Substring(1).ToLo;
+playerClass = char.ToUpper(playerClass[0]) + playerClass.Substring(1).ToLower();
 
 
 while (playerClass!= "Spirit" && playerClass!= "Magician" && playerClass!= "Werewolf" && playerClass!= "Archer")
