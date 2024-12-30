@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj": {}
+    "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj": {}
   },
   "projects": {
-    "/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj": {
+    "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj",
+        "projectUniqueName": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj",
         "projectName": "ConcatenateStrings",
-        "projectPath": "/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj",
-        "packagesPath": "/Users/starter/.nuget/packages/",
-        "outputPath": "/Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/ConcatenateStrings/obj/",
+        "projectPath": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/ConcatenateStrings/ConcatenateStrings.csproj",
+        "packagesPath": "/Users/colorcodex8/.nuget/packages/",
+        "outputPath": "/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/ConcatenateStrings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/starter/.nuget/NuGet/NuGet.Config"
+          "/Users/colorcodex8/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

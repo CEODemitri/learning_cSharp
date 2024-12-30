@@ -31,13 +31,18 @@ public class HelloWorld
         // StringBuilder is thread-safe, meaning multiple threads can access and modify it simultaneously
         // StringBuilder is useful for building strings that need to be changed frequently
         // StringBuilder is also useful for building strings that need to be shared between multiple threads
+
+        StringBuilder baseName = new StringBuilder("rain");
+        Console.WriteLine($"original: {baseName}");
+        baseName.Append("mane");
+        Console.WriteLine(baseName);
     }
 }
 
 // the foundation of string concatenation lies in string creation
 // String Creation
-    // Strings are immutable
-    // Characters cannot be changed
-    // Length cannot be changed
-    // In concatenation, create a new String, leaaving old String unaltered
-    // Use String Builder object to make program more efficient
+// Strings are immutable
+// Characters cannot be changed
+// Length cannot be changed
+// In concatenation, create a new String, leaaving old String unaltered
+// Use String Builder object to make program more efficient
