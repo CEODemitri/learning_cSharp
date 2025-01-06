@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StringManipulation
-build_property.ProjectDir = /Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/
+build_property.ProjectDir = /Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

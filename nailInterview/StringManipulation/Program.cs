@@ -24,27 +24,50 @@ public class NormalizeString
 {
     public static void Main(string[] args)
     {
-       Console.WriteLine(normalizeString("   Hey there,   BUDDY!"));
-       Console.WriteLine(isUppercase("BUDDY"));
-       Console.WriteLine(isLowercase("hey there buddy"));
+        Console.WriteLine(normalizeString("   Hey there,   BUDDY!"));
+        Console.WriteLine(isUppercase("BUDDY"));
+        Console.WriteLine(isLowercase("hey there buddy"));
     }
 
-     static String normalizeString(String input) {
+    static String normalizeString(String input)
+    {
         // string lowerCase = input.ToLower();
         // string trim = lowerCase.Trim(" ", "_");
         // string sanitized = trim.Replace("[^a-z0-9_]", "_");
         // return sanitized;
         // OR
-        return input.ToLower().Trim().Replace(",", ""); 
+        return input.ToLower().Trim().Replace(",", "");
     }
 
     // Validate a String
-    static Boolean isUppercase(string s) {
+    static Boolean isUppercase(string s)
+    {
         return s.All(char.IsUpper);
     }
 
-    static Boolean isLowercase(string s) {
+    static Boolean isLowercase(string s)
+    {
         Console.WriteLine(s.ToLower()); // why does this return my exact input but boolean method isLower returns false
         return s.All(char.IsLower);
     }
+
+    // data in a string
+    static void parseContents(string input)
+    {
+        Console.WriteLine("Option 1");
+        foreach (char c in input)
+        {
+            Console.WriteLine(c);
+        }
+
+        Console.WriteLine("Option 2");
+        for (int i = 0; i < input.Length; i++)
+        {
+            char c = input[i];
+        }
+    }
+    // String input = "Hello";
+    // Console.WriteLine(input.ToLower().Contains("ll"));
+
+    // parseContents(input);
 }

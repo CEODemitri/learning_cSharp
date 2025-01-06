@@ -13,3 +13,11 @@
 /Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.pdb
 /Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.genruntimeconfig.cache
 /Users/starter/Desktop/projects/c#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/ref/StringManipulation.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.sourcelink.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/refint/StringManipulation.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/nailInterview/StringManipulation/obj/Debug/net8.0/StringManipulation.pdb
