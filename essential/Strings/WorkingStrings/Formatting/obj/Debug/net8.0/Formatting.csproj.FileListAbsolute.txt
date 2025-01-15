@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/bin/Debug/net8.0/Formatting
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/bin/Debug/net8.0/Formatting.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/bin/Debug/net8.0/Formatting.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.pdb
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/Programming/Projects/C#/learning_cSharp/essential/Strings/WorkingStrings/Formatting/obj/Debug/net8.0/ref/Formatting.dll
